@@ -2,4 +2,4 @@
 
 ## Credits
 
-- Anil Saravade [linkedin](https://www.linkedin.com/in/anilgsaravade/)
+- [Anil Saravade](https://www.linkedin.com/in/anilgsaravade/)
